@@ -1,5 +1,5 @@
 from PIL import Image
-#test commit 
+
 def encrypt_image(input_path, output_path, key):
     try:
         # Open the image and convert it to RGB mode
